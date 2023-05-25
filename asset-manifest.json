@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/guardian-news-app/static/css/main.25b7a2f7.css",
+    "main.js": "/guardian-news-app/static/js/main.9ee1632f.js",
+    "static/media/news.jpg": "/guardian-news-app/static/media/news.f2ea30404b056dfabe05.jpg",
+    "index.html": "/guardian-news-app/index.html",
+    "main.25b7a2f7.css.map": "/guardian-news-app/static/css/main.25b7a2f7.css.map",
+    "main.9ee1632f.js.map": "/guardian-news-app/static/js/main.9ee1632f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.25b7a2f7.css",
+    "static/js/main.9ee1632f.js"
+  ]
+}
