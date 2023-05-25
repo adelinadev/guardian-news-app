@@ -1,5 +1,5 @@
 import { useState, useEffect } from 'react';
-import { getArticlesByWord } from '../api';
+import { getArticlesByWord } from '../data/api';
 import NewsInfo from './NewsInfo';
 
 function MainPage() {

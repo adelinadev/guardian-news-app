@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import { getArticlesByTag } from "../api"; 
+import { getArticlesByTag } from "../data/api"; 
 import NewsInfo from "./NewsInfo";
 import Wrapper from "./Wrapper";
 

@@ -1,4 +1,4 @@
-import { getArticlesByTag } from "../api";
+import { getArticlesByTag } from "../data/api";
 
 function Wrapper(props) {
 

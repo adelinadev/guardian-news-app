@@ -1,5 +1,5 @@
 import './App.css'
-import { getArticlesByTag, getArticlesByWord } from './api';
+//import { getArticlesByTag, getArticlesByWord } from './data/api';
 import { BrowserRouter, Routes, Route, NavLink } from 'react-router-dom';
 import Politics from './components/Politics';
 import Sport from './components/Sport';
